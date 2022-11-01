@@ -57,7 +57,7 @@ new Schema(
             virtuals: true,
             getters: true,
         },
-        id: false,
+        id: true,
     }
 );
 
